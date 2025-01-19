@@ -2,6 +2,7 @@
 
 [![Authorize.net Java CI](https://github.com/AuthorizeNet/sdk-java/actions/workflows/java-workflow.yml/badge.svg?branch=master)](https://github.com/AuthorizeNet/sdk-java/actions/workflows/java-workflow.yml)
 [![Maven Central](https://img.shields.io/maven-central/v/net.authorize/anet-java-sdk.svg?style=flat)](http://mvnrepository.com/artifact/net.authorize/anet-java-sdk)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2Fsdk-java.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2Fsdk-java?ref=badge_shield)
 
 ## IMPORTANT NOTE
 
@@ -175,3 +176,6 @@ Authorize.Net is phasing out the MD5 based `transHash` element in favor of the S
 
 ## License
 This repository is distributed under a proprietary license. See the provided [`LICENSE.txt`](/LICENSE.txt) file.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2Fsdk-java.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2Fsdk-java?ref=badge_large)
